@@ -1,5 +1,10 @@
+Prérequis:
+	- installer gnuplot (sudo apt install gnuplot)
+	- installer make (sudo apt install gnuplot)
+	- installer gcc (sudo apt install gnuplot)
+	
 Pour lancer le programme: 
-Il suffit de compiler en utilisant le Makefile en lançant la commande un make
+Il suffit de compiler et de rendre le script executable en utilisant le Makefile en lançant la commande un make
 Une application nommée application va aparaitre dans le répertoire courant.
 Puis il faudra lancer un des scripts ci-dessous suivants pour tester le pogramme.
 Cela générera un répertoire dans lequel se trouvera un sous-repertoire nommé du nom de la variable souhaité.
